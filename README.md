@@ -1,3 +1,2 @@
 # DSC180A-Methodology-4
-Irisa Jin
-rmhatre@ucsd.edu
+Irisa Jin and Riya Mhatre
